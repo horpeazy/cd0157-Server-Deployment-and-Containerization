@@ -74,9 +74,9 @@ cd cd0157-Server-Deployment-and-Containerization/
 ```
 
      
-## Project Steps
+## Major tasks
 
-Completing the project involves several steps:
+Some of the major tasks of this projects include:
 
 1. Write a Dockerfile for a simple Flask API
 2. Build and test the container locally
